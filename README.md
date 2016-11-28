@@ -1,3 +1,5 @@
 # mocha-test
 
-mocha
+cd to root
+```mocha```
+
